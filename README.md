@@ -3,8 +3,11 @@
 
 🔗 **Live demo:** https://linhm2609-ux.github.io/commbank-complaints-dashboard/
 
-Interactive dashboard analysing 467 customer complaints (Aug 2011 – Dec 2020)- Built with AI assistance.
+Interactive dashboard analysing 467 customer complaints (Aug 2011 – Dec 2020).
 Every filter and chart click cross-filters all panels and recomputes the KPIs live.
+
+> Built with AI assistance (Claude). I provided the dataset, wireframe and requirements,
+> and reviewed the KPIs, assumptions and results.
 
 ## Features
 - Filters: Product, Issue, Company response
