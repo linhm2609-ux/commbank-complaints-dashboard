@@ -6,7 +6,7 @@
 Interactive dashboard analysing 467 customer complaints (Aug 2011 – Dec 2020).
 Every filter and chart click cross-filters all panels and recomputes the KPIs live.
 
-> Built with AI assistance (Claude). I provided the dataset, wireframe and requirements,
+> Built with AI assistance. I provided the dataset, wireframe and requirements,
 > and reviewed the KPIs, assumptions and results.
 
 ## Features
